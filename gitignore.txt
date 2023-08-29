@@ -1,0 +1,8 @@
+### Java Template
+*.class
+*.project
+*.settings
+*.classpath
+*.component
+*.log*
+*.log
